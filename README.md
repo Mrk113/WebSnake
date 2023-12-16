@@ -1,1 +1,1 @@
-Das System kann die angegebene Datei nicht finden.
+Snake Game in the browser
